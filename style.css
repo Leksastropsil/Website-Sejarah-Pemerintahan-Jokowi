@@ -1,0 +1,158 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%
+  height: 100%;
+  background:  #f8f9fa;
+  font-family: 'Roboto', sans-serif;
+}
+
+.title-style {
+  font-weight: bold;
+}
+
+.hero {
+  position: relative;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpc7qhqYLA2C6jyXlLI8kFQz_VHFGO1Nl9nk98_f__XZHX8iPD9tUSxkWo&s=10');
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  height: 60rem;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, transparent, #c53030);
+  z-index: 1;
+}
+
+.text-hero {
+  position: relative;
+  z-index: 3;
+  color: white;
+}
+
+.profile-card {
+  position: relative;
+  height: 42rem;
+  background: linear-gradient(to top, #f8f9fa, #c53030);
+  z-index: 2; 
+}
+
+.profil-text {
+  margin-left: 20px;
+}
+
+
+.card-container {
+  min-width: ; 50vh;
+}
+
+.bg-periode {
+  linear-gradient(to top, #f8f9fa, #fff)
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+  
+  .hero {
+  position: relative;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpc7qhqYLA2C6jyXlLI8kFQz_VHFGO1Nl9nk98_f__XZHX8iPD9tUSxkWo&s=10');
+  background-size: cover;
+  background-position: calc(100% - -550px) center;
+  overflow: hidden;
+  height: 60rem;
+}
+  
+  
+  .profile-card {
+    min-height: 101vh;
+    
+  }
+  
+  .profil-text {
+    font-weight: 500;
+    font-size: 1rem; 
+    text-align: center; 
+    margin: 10px 0;
+  }
+  
+  .title-profile {
+    font-weight: bold;
+    font-size: 1.2rem; 
+    margin-bottom: 15px; 
+    text-align: center; 
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .profile-card {
+      min-height: 101vh;
+    }
+}
+
+ .card {
+    border: none;
+    border-radius: 15px;
+  }
+
+  
+  .card.shadow-lg {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+
+  .carousel-inner img {
+    object-fit: cover;  
+    height: 450px; 
+    border-radius: 15px;
+  }
+
+  .carousel-fade .carousel-item {
+    transition: opacity 0.5s ease;
+  }
+
+  .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+  }
+
+  @media (max-width: 768px) {
+    .carousel-inner img {
+      height: 300px;
+    }
+  }
+  
+  @media screen and (min-width: 321px) and (max-width: 480px) {
+    carousel-img {
+      height="280px"
+    }
+  }
+  
+  @media (max-width: 768px) {
+            .animated-element {
+                width: 90%; 
+                height: auto;
+                min-height: 150px;
+            }
+
+            [data-aos] {
+                transition-duration: 600ms !important;
+            }
+        }
+
+       
+        [data-aos] {
+            transform-style: preserve-3d;
+            backface-visibility: hidden;
+            perspective: 1000px;
+            will-change: transform; 
+            -webkit-transform-style: preserve-3d;
+            -webkit-backface-visibility: hidden;
+        }
+  
