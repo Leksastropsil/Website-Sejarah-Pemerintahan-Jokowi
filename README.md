@@ -1,4 +1,8 @@
-# README - Website Tugas Sejarah: Pemerintahan Presiden Jokowi
+# Website Tugas Sejarah: Pemerintahan Presiden Jokowi
+
+<p align="center">
+  <img src="URL_GAMBAR" alt="Deskripsi Gambar" width="300">
+</p>
 
 ## Deskripsi Proyek
 Website ini dibuat sebagai bagian dari tugas sejarah yang membahas pemerintahan Presiden Joko Widodo (Jokowi). Website ini berisi informasi mengenai kebijakan, program kerja, serta dampak pemerintahan Jokowi dalam berbagai sektor, seperti ekonomi, infrastruktur, pendidikan, dan politik.
@@ -15,7 +19,7 @@ Website ini dibuat sebagai bagian dari tugas sejarah yang membahas pemerintahan 
 - **Framework CSS :** Bootstrap untuk tampilan yang responsif, AOS CSS Untuk animasi.
 
 ## Cara Menggunakan
-- **Buka Website:** Akses melalui browser dengan alamat.
+- **Buka Website:** Akses melalui browser dengan alamat:
   `https://leksastropsil.github.io/Website-Sejarah-Pemerintahan-Jokowi/`
 
 
