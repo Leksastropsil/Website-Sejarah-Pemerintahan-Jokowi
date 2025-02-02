@@ -9,9 +9,9 @@ Website ini dibuat sebagai bagian dari tugas sejarah yang membahas pemerintahan 
 
 ## Fitur Utama
 - **Halaman Beranda:** Menyajikan ringkasan pemerintahan Presiden Jokowi.
-- **Profil Presiden Jokowi:** Informasi singkat tentang latar belakang dan perjalanan politik beliau.
-- **Kebijakan dan Program:** Penjelasan mengenai kebijakan utama dan program yang diterapkan selama masa pemerintahan.
-- **Dampak Pemerintahan:** Analisis dampak kebijakan terhadap masyarakat dan negara.
+- **Periode pemerintahan:** Informasi singkat tentang perjalanan politik beliau sebagai presiden.
+- **Prestasi pada pemerintahan jokowi:** Penjelasan singkat mengenai prestasi selama masa pemerintahan beliau.
+- **Tantangan dalam era Jokowi:** Penjelasan singkat mengenai tantangan yang dihadapi beliau selama menjabat.
 - **Galeri:** Kumpulan gambar terkait pemerintahan Jokowi.
 
 ## Teknologi yang Digunakan
@@ -29,7 +29,7 @@ Website ini dibuat sebagai bagian dari tugas sejarah yang membahas pemerintahan 
 - Meningkatkan kesadaran akan sejarah dan perkembangan politik Indonesia.
 
 ## Kontributor
-Dibuat oleh: [Leksa Andana Oktaviansa]  
+Dibuat oleh: [Leksa Andana Oktaviansa - XI RPL 1]  
 Tugas Sejarah - [SMK Negeri 11 Malang]
 
 ## Lisensi
