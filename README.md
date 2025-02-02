@@ -1,7 +1,7 @@
 # Website Tugas Sejarah: Pemerintahan Presiden Jokowi
 
 <p align="center">
-  <img src="URL_GAMBAR" alt="Deskripsi Gambar" width="300">
+  <img src="https://github.com/user-attachments/assets/877d3784-791c-4c3e-8977-395ef0a3e7b5" alt="Deskripsi Gambar" width="300">
 </p>
 
 ## Deskripsi Proyek
