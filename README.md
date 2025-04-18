@@ -34,5 +34,5 @@ Dibuat oleh: [Leksa Andana Oktaviansa - XI RPL 1]
 Tugas Sejarah - Masa Reformasi Presiden Ke-7 Republik Indonesia
 
 ## Lisensi
-Proyek ini dibuat untuk keperluan pendidikan dan bukan untuk tujuan komersial.
+Proyek ini dibuat untuk keperluan pendidikan dan bukan untuk tujuan politik atau apapun.
 
